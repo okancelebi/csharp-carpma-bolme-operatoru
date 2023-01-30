@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp çarpma bölme operatörü\csharp çarpma bölme operatörü\bin\Debug\csharp çarpma bölme operatörü.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp çarpma bölme operatörü\csharp çarpma bölme operatörü\bin\Debug\csharp çarpma bölme operatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp çarpma bölme operatörü\csharp çarpma bölme operatörü\bin\Debug\csharp çarpma bölme operatörü.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp çarpma bölme operatörü\csharp çarpma bölme operatörü\obj\Debug\csharp çarpma bölme operatörü.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp çarpma bölme operatörü\csharp çarpma bölme operatörü\obj\Debug\csharp çarpma bölme operatörü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp çarpma bölme operatörü\csharp çarpma bölme operatörü\obj\Debug\csharp çarpma bölme operatörü.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp çarpma bölme operatörü\csharp çarpma bölme operatörü\obj\Debug\csharp çarpma bölme operatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp çarpma bölme operatörü\csharp çarpma bölme operatörü\obj\Debug\csharp çarpma bölme operatörü.pdb
